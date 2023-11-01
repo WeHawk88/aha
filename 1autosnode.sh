@@ -4,5 +4,5 @@
 cd
 cd XENGPUMiner
 while sleep 300; 
-do python3 syncnode.py 0xF5074dB5A20172108fdC727C8bC1e052091e3D68;    #Change ETH_Address with your metamask wallet address
+do python3 syncnode.py ETH_Address;    #Change ETH_Address with your metamask wallet address
 done	
